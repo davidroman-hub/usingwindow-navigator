@@ -35,3 +35,6 @@ function dibujarlinea(color, xinicial, yinicial, xfinal, yfinal)
 
 dibujarlinea ("pink", 10, 300, 220, 10, );
 dibujarlinea ("orange", 100, 200, 120, 200, );
+
+
+
